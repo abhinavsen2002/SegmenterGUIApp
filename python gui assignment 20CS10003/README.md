@@ -1,4 +1,4 @@
-# Python Segmentro App
+# Python Segmentor App
 
 The details of each of the files/folders are as follows:
 
