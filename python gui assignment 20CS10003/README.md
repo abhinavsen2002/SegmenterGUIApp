@@ -69,4 +69,15 @@ e) `blur.py`: This file takes an image (as numpy array) as input and applies a g
 <b>Fig. (e)</b>. Blur Operation. </p>
 &nbsp;
 
+## Final Output:
+
+&nbsp;
+<p align="center">
+<img src='./analysis1/bboxes.png' width=400>
+</p>
+<p align="center">
+<b>Fig. (e)</b>. Bounding boxes. </p>
+&nbsp
+
+
 
